@@ -1,4 +1,4 @@
-# ntfpage
+# NFT PAGE - React
 Pagina NFT
 
 ## Tecnologias usadas
